@@ -1,0 +1,28 @@
+.main{
+    border: 2px solid black;
+    width: 300px;
+    height: 365px;
+    margin: 0 auto;
+    align-content: center;
+    background-color:rgb(32, 5, 97);
+    margin-top: 20px;
+}
+div button{
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    margin-left: 13px;
+    
+}
+.input{
+    margin: 3px;
+    width: 290px;
+    height: 50px;
+    font-size: 30px;
+    background-color: snow;
+    font-weight: bold;
+    font-family: serif;
+}
+body{
+    background-color: blanchedalmond;
+}
